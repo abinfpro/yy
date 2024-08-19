@@ -1,0 +1,18 @@
+.logo{
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 45px;
+    
+}
+.head{
+    background-color: rgb(235, 235, 8);
+    /* border: 50px; */
+}
+p,body{
+    padding: 0;
+    margin: 0;
+}
+.ii{
+    margin-left: 50px;
+    font-weight: bold;
+}
